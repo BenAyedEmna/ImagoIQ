@@ -1,0 +1,22 @@
+# === BACKEND (FastAPI) ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.env.*
+
+# === FRONTEND (React) ===
+node_modules/
+dist/
+.env
+.env.*
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === VSCODE or IDE settings ===
+.vscode/
+.idea/
